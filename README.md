@@ -1,7 +1,7 @@
 
 # 🔑 Deterministic Wallet Decoder
 
-**Ten projekt to interaktywny dekoder/generator słów kluczowych (seedów BIP-39) oparty na haśle i liczbie.**
+**Ten projekt to interaktywny dekoder/generator słów kluczowych (seedów BIP-39) oparty na haśle i liczbie.**  
 🧠 Pozwala na łatwe zapamiętanie backupu portfela 🔑
 
 ---
@@ -14,8 +14,8 @@
 4️⃣ **Standard BIP-44** – umożliwia użycie w wielu sieciach: Bitcoin, Ethereum, Cardano, Solana, Litecoin, Dogecoin i inne
 
 📌 **Wystarczy zapamiętać hasło i liczbę** → w dowolnym momencie możesz odtworzyć te same seedy!  
-📌 **UWAGA**: Jeśli ktoś pozna Twoje hasło i liczbę – ma pełny dostęp do seedów! 
-⚠️ Generator jest deterministyczny – nie ma możliwości zmiany słów kluczowych bez zmiany hasła/liczby.
+📌 **UWAGA**: Jeśli ktoś pozna Twoje hasło i liczbę – ma pełny dostęp do seedów!  
+⚠️ **Generator jest deterministyczny** – nie ma możliwości zmiany słów kluczowych bez zmiany hasła/liczby.
 
 ---
 
