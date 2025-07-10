@@ -15,7 +15,10 @@
 
 📌 **Wystarczy zapamiętać hasło i liczbę** → w dowolnym momencie możesz odtworzyć te same seedy!  
 📌 **UWAGA**: Jeśli ktoś pozna Twoje hasło i liczbę – ma pełny dostęp do seedów!  
-⚠️ **Generator jest deterministyczny** – nie ma możliwości zmiany słów kluczowych bez zmiany hasła/liczby.
+⚠️ **Generator jest deterministyczny** – nie ma możliwości zmiany słów kluczowych bez zmiany hasła/liczby.  
+
+🔒 **Pełne bezpieczeństwo**: Słowa kluczowe są generowane wyłącznie lokalnie i nie są nigdzie przechowywane ani wysyłane.   
+Dla maksymalnego bezpieczeństwa używaj skryptu offline (np. na maszynie wirtualnej, komputerze z Linux Live lub komputerze odłączonym od Internetu).
 
 ---
 
