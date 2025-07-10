@@ -48,6 +48,8 @@
 4. Proces zapętla się – powstaje wielowarstwowy chain.
 5. Wynik: finalny mnemonic, seed, klucz prywatny/publiczny.
 
+[📜 Opis techniczny działania skryptu generującego mnemoniki i portfele BIP44](https://github.com/hattimon/wallet-decoder/blob/main/spec_tech.md)
+
 ✅ Deterministyczny – zawsze daje te same wyniki dla tych samych danych wejściowych.  
 ✅ Kompatybilny z BIP39/BIP44.  
 ✅ Obsługuje wiele sieci.
