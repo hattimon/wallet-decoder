@@ -53,9 +53,11 @@ def input_decode_number(use_polish):
 
 def input_network(use_polish):
     msg = (
-        "🌐 Na jaką sieć chcesz portfel? (Bitcoin, Ethereum, Solana, Dogecoin, Litecoin, Cardano). ENTER = uniwersalny BIP44 (Bitcoin)"
+        "🌐 Na jaką sieć chcesz portfel? (Bitcoin, Ethereum, Solana, Dogecoin, Litecoin, Cardano)\n"
+        "⏎ Wciśnij ENTER = uniwersalny BIP44 (Multicoin & Hardware Wallet)"
         if use_polish else
-        "🌐 Which network? (Bitcoin, Ethereum, Solana, Dogecoin, Litecoin, Cardano). Press ENTER = universal BIP44 (Bitcoin)"
+        "🌐 Which network? (Bitcoin, Ethereum, Solana, Dogecoin, Litecoin, Cardano)\n"
+        "⏎ Press ENTER = universal BIP44 (Multicoin & Hardware Wallet)"
     )
     return input(msg + ": ").strip()
 
