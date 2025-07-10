@@ -8,7 +8,7 @@
 
 ## ⚙️ Jak to działa?
 
-1️⃣ **Podajesz hasło** – może zawierać tylko litery angielskie (A–Z, a–z), wielkość liter ma znaczenie.
+1️⃣ **Podajesz hasło** – może zawierać tylko litery angielskie (A–Z, a–z), wielkość liter ma znaczenie.  
 2️⃣ **Podajesz liczbę** – jest konwertowana na wzorzec binarny  
 3️⃣ **Skrypt deterministycznie generuje słowa kluczowe (12/24)** – kompatybilne ze standardem [BIP-39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)  
 4️⃣ **Standard BIP-44** – umożliwia użycie w wielu sieciach: Bitcoin, Ethereum, Cardano, Solana, Litecoin, Dogecoin i inne
