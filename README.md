@@ -8,7 +8,7 @@
 
 ## ⚙️ Jak to działa?
 
-1️⃣ **Podajesz hasło** – tylko litery a-z/A-Z  
+1️⃣ **Podajesz hasło** – może zawierać tylko litery angielskie (A–Z, a–z), wielkość liter ma znaczenie.
 2️⃣ **Podajesz liczbę** – jest konwertowana na wzorzec binarny  
 3️⃣ **Skrypt deterministycznie generuje słowa kluczowe (12/24)** – kompatybilne ze standardem [BIP-39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)  
 4️⃣ **Standard BIP-44** – umożliwia użycie w wielu sieciach: Bitcoin, Ethereum, Cardano, Solana, Litecoin, Dogecoin i inne
@@ -48,7 +48,7 @@
 4. Proces zapętla się – powstaje wielowarstwowy chain.
 5. Wynik: finalny mnemonic, seed, klucz prywatny/publiczny.
 
-[📜 Opis techniczny działania skryptu generującego mnemoniki i portfele BIP44](https://github.com/hattimon/wallet-decoder/blob/main/spec_tech.md)
+[📜 ZAAWANSOWANY: Opis techniczny działania skryptu generującego mnemoniki i portfele BIP44](https://github.com/hattimon/wallet-decoder/blob/main/spec_tech.md)
 
 ✅ Deterministyczny – zawsze daje te same wyniki dla tych samych danych wejściowych.  
 ✅ Kompatybilny z BIP39/BIP44.  
